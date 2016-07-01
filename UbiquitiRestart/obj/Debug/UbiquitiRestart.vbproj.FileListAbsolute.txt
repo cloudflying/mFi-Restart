@@ -1,0 +1,17 @@
+C:\Users\justi\AppData\Local\Temporary Projects\UbiquitiRestart\bin\Debug\UbiquitiRestart.exe.config
+C:\Users\justi\Documents\GitHub\UbiquitiRestart\UbiquitiRestart\bin\Debug\UbiquitiRestart.exe.config
+C:\Users\justi\Documents\GitHub\UbiquitiRestart\UbiquitiRestart\bin\Debug\UbiquitiRestart.exe
+C:\Users\justi\Documents\GitHub\UbiquitiRestart\UbiquitiRestart\bin\Debug\UbiquitiRestart.pdb
+C:\Users\justi\Documents\GitHub\UbiquitiRestart\UbiquitiRestart\bin\Debug\UbiquitiRestart.xml
+C:\Users\justi\Documents\GitHub\UbiquitiRestart\UbiquitiRestart\bin\Debug\Newtonsoft.Json.dll
+C:\Users\justi\Documents\GitHub\UbiquitiRestart\UbiquitiRestart\bin\Debug\RestSharp.dll
+C:\Users\justi\Documents\GitHub\UbiquitiRestart\UbiquitiRestart\bin\Debug\Newtonsoft.Json.xml
+C:\Users\justi\Documents\GitHub\UbiquitiRestart\UbiquitiRestart\bin\Debug\RestSharp.xml
+C:\Users\justi\Documents\GitHub\UbiquitiRestart\UbiquitiRestart\obj\Debug\UbiquitiRestart.vbprojResolveAssemblyReference.cache
+C:\Users\justi\Documents\GitHub\UbiquitiRestart\UbiquitiRestart\obj\Debug\UbiquitiRestart.Form1.resources
+C:\Users\justi\Documents\GitHub\UbiquitiRestart\UbiquitiRestart\obj\Debug\UbiquitiRestart.Resources.resources
+C:\Users\justi\Documents\GitHub\UbiquitiRestart\UbiquitiRestart\obj\Debug\UbiquitiRestart.selection.resources
+C:\Users\justi\Documents\GitHub\UbiquitiRestart\UbiquitiRestart\obj\Debug\UbiquitiRestart.vbproj.GenerateResource.Cache
+C:\Users\justi\Documents\GitHub\UbiquitiRestart\UbiquitiRestart\obj\Debug\UbiquitiRestart.exe
+C:\Users\justi\Documents\GitHub\UbiquitiRestart\UbiquitiRestart\obj\Debug\UbiquitiRestart.xml
+C:\Users\justi\Documents\GitHub\UbiquitiRestart\UbiquitiRestart\obj\Debug\UbiquitiRestart.pdb
